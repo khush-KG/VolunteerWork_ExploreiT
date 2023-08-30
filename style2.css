@@ -1,0 +1,23 @@
+/* Save Natural Resources Colors */
+
+body {
+    color: #1B5E20;
+}
+
+header {
+    background-color: #4CAF50;
+}
+
+h2 {
+    color: #4CAF50;
+}
+
+@media screen and (min-width: 768px) {
+    header {
+        background-color: #1B5E20;
+    }
+
+    h2 {
+        color: #1B5E20;
+    }
+}

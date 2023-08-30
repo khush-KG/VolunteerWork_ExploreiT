@@ -1,0 +1,39 @@
+/* Pollution and Its Effects Colors */
+
+body {
+    color: #B71C1C;
+}
+
+header {
+    background-color: #FF5722;
+}
+
+h2 {
+    color: #FF5722;
+}
+
+@media screen and (min-width: 768px) {
+    header {
+        background-color: #B71C1C;
+    }
+
+    h2 {
+        color: #B71C1C;
+    }
+}
+
+/* Button Styling */
+
+.button {
+    display: inline-block;
+    background-color: #339933;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+.button:hover {
+    background-color: #0f6600;
+}
